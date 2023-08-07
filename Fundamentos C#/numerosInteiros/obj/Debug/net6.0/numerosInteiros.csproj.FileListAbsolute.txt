@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\bin\Debug\net6.0\numerosInteiros.exe
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\bin\Debug\net6.0\numerosInteiros.deps.json
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\bin\Debug\net6.0\numerosInteiros.runtimeconfig.json
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\bin\Debug\net6.0\numerosInteiros.dll
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\bin\Debug\net6.0\numerosInteiros.pdb
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\numerosInteiros.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\numerosInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\numerosInteiros.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\numerosInteiros.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\numerosInteiros.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\numerosInteiros.dll
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\refint\numerosInteiros.dll
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\numerosInteiros.pdb
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\numerosInteiros.genruntimeconfig.cache
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\numerosInteiros\obj\Debug\net6.0\ref\numerosInteiros.dll
