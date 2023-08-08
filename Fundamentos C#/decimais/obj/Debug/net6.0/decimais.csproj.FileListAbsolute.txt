@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\bin\Debug\net6.0\decimais.exe
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\bin\Debug\net6.0\decimais.deps.json
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\bin\Debug\net6.0\decimais.runtimeconfig.json
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\bin\Debug\net6.0\decimais.dll
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\bin\Debug\net6.0\decimais.pdb
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\decimais.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\decimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\decimais.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\decimais.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\decimais.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\decimais.dll
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\refint\decimais.dll
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\decimais.pdb
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\decimais.genruntimeconfig.cache
+C:\Users\usuario\Documents\GitHub\techguide\Fundamentos C#\decimais\obj\Debug\net6.0\ref\decimais.dll
